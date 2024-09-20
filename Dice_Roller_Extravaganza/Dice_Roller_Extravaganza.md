@@ -25,19 +25,6 @@ Ever felt the need to roll a die but didn't have one handy? This nifty script ha
 - **`display_die(number)`**: Displays some fabulous ASCII art based on the number rolled. Who needs 3D graphics when ASCII art looks this good?
 - **`main()`**: The brain of the operation. It runs the game loop, waits for your input, clears the screen, rolls the die, displays your result, and asks if you want to roll again.
 
-## 🏆 Example Output
-
-\`\`\`
-You rolled a 5!
-
-┌─────────┐
-│  ●   ●  │
-│    ●    │
-│  ●   ●  │
-└─────────┘
-
-Do you want to roll again? (y/n):
-\`\`\`
 
 ## 🎉 Why You'll Love It
 
